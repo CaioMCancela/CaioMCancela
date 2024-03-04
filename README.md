@@ -22,7 +22,7 @@
 
 ## 💡 Objetivos Futuros:
 
-Meu objetivo é contribuir para a comunidade de código aberto, aprender com os desenvolvedores experientes e, eventualmente, criar soluções que impactem positivamente a sociedade. Estou animado para aprender e crescer junto com a comunidade GitHub.
+Meu objetivo é contribuir para a comunidade de código aberto, aprender com os desenvolvedores experientes e, eventualmente, criar soluções que impactem positivamente a sociedade. Estou motivado para aprender e crescer junto com a comunidade GitHub.
 
 ## 📚 Aprendizado Contínuo:
 
